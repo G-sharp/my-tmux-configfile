@@ -12,7 +12,7 @@
     <tbody style="padding:0px; margin:0px">
         <tr class="row0" style="padding:0px; margin:0px">
             <td class="col0 centeralign" colspan="2"
-                style="padding:3px; margin:0px; text-align:center; border:1px solid rgb(140,172,187)"> Ctrl+b</td>
+                style="padding:3px; margin:0px; text-align:center; border:1px solid rgb(140,172,187)"> Ctrl+a</td>
             <td class="col2" style="padding:3px; margin:0px; border:1px solid rgb(140,172,187)"> 激活控制台；此时以下按键生效</td>
         </tr>
         <tr class="row1" style="padding:0px; margin:0px">
