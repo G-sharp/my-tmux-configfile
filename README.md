@@ -1,4 +1,8 @@
 # Tmux Configuration
+- Install TPM
+
+`git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm`
+
 - Mouse disabled
 - Restore session
 - Replace prefix key Ctrl+b with Ctrl+a
